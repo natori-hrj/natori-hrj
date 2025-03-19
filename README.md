@@ -1,15 +1,16 @@
 ## Hi there 👋
-- I'm software engineer.
-- I'm currently learning React.
-- How to reach me: [X - @nator1-j](https://x.com/nator1_j)
+- 🧑‍💻I'm software engineer.
+- 📖I'm currently learning React.
+- 📫How to reach me: [X - @nator1-j](https://x.com/nator1_j)
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark@perline=7&i=python,react,ts,js,html,css,next,docker,aws,gcp" />
+## 🚀 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,react,ts,js,html,css,next,docker,aws,gcp" />
 <br>
 
-## Activities
+## 🌙 Activities
 <div align="left">
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=natori-hrj&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-reamdme-stats.vercel.app/api/top-langs/?username=natori-hrj&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natori-hrj&theme=vue-dark&layout=compact" />
 
 <!--
 **natori-hrj/natori-hrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
