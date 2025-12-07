@@ -1,6 +1,5 @@
 ## Hi there 👋
 - 🧑‍💻I'm software engineer.
-- 📖I'm currently learning React.
 - 📫How to reach me: [X - @nator1_hrj](https://x.com/nator1_hrj)
 
 ## 🚀 Skills
