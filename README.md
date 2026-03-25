@@ -16,7 +16,7 @@
 
 ## 🚀 Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,python,ts,react,next,postgres,docker,gcp,aws,neovim" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,python,ts,react,next,svelte,postgres,docker,gcp,aws,neovim" />
 
 <br>
 
@@ -25,7 +25,9 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🐾 Dogger Log | Dog health & growth tracking app | Go, Next.js, PostgreSQL, GCP |
-| ⚡ nvim-databricks | Neovim plugin to run Python files on Databricks clusters | Lua |
+| 🌐 [natorium.dev](https://github.com/natori-hrj/natorium.dev) | Personal website | Svelte |
+| 🛰️ [iss-tracker-cli](https://github.com/natori-hrj/iss-tracker-cli) | ISS position tracker CLI | Go |
+| ⚡ [databricks.nvim](https://github.com/natori-hrj/databricks.nvim) | Neovim plugin to run Python files on Databricks clusters | Lua |
 
 <br>
 
