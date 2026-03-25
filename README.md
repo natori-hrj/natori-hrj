@@ -10,7 +10,7 @@
 - 🌱 Learning **Go** and deepening **system design** skills
 - 💼 Backend-focused Fullstack Engineer
 - 🐾 Dog lover with a Pomeranian & Toy Poodle
-- 📫 Reach me at [X - @natori1_hrj](https://x.com/natori1_hrj)
+- 📫 Reach me at [X - @nator1_hrj](https://x.com/nator1_hrj)
 
 <br>
 
