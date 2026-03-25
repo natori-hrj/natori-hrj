@@ -14,6 +14,16 @@
 
 <br>
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/natori-hrj/natori-hrj/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/natori-hrj/natori-hrj/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/natori-hrj/natori-hrj/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+
 ## 🚀 Skills
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,python,ts,react,next,postgres,docker,gcp,aws,neovim" />
@@ -36,12 +46,3 @@
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natori-hrj&theme=vue-dark&layout=compact" />
 </div>
 
-<br>
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/natori-hrj/natori-hrj/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/natori-hrj/natori-hrj/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/natori-hrj/natori-hrj/output/github-contribution-grid-snake.svg">
-</picture>
