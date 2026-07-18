@@ -4,17 +4,20 @@
   <br>
 
   [![X](https://img.shields.io/badge/X-nator1__hrj-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/nator1_hrj)
-  [![Dogger Log](https://img.shields.io/badge/Dogger_Log-dogger--log.app-58A6FF?style=flat-square&logo=googlechrome&logoColor=white)](https://dogger-log.app)
+  [![natorium.dev](https://img.shields.io/badge/natorium.dev-58A6FF?style=flat-square&logo=googlechrome&logoColor=white)](https://natorium.dev)
   [![GitHub followers](https://img.shields.io/github/followers/natori-hrj?style=flat-square&logo=github&color=181717&labelColor=181717)](https://github.com/natori-hrj)
+  [![Stars Earned](https://img.shields.io/badge/⭐_Stars_Earned-14-F1E05A?style=flat-square&labelColor=181717)](https://github.com/natori-hrj?tab=repositories&sort=stargazers)
 </div>
 
 <br>
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **[Dogger Log](https://dogger-log.app)** - a dog health & growth tracking app
-- 🧭 Also exploring **[vela-mcp](https://github.com/natori-hrj/vela-mcp)** - governed data exploration over MCP
+- 🌐 Personal site: **[natorium.dev](https://natorium.dev)**
+- 🧭 Currently exploring **[vela-mcp](https://github.com/natori-hrj/vela-mcp)** - governed data exploration over MCP
+- 🔭 Building **Dogger Log** - a dog health & growth tracking app (WIP, not deployed yet)
 - 🌱 Learning **Go** and deepening **system design** skills
+- 🤝 Occasional contributor to OSS, e.g. [pingcap/tidb](https://github.com/pingcap/tidb)
 - 💼 Backend-focused Fullstack Engineer
 - 🐾 Dog lover with a Pomeranian & Toy Poodle
 - 📫 Reach me at [X - @nator1_hrj](https://x.com/nator1_hrj)
@@ -39,24 +42,16 @@
 
 ## 🔨 Projects
 
-#### 🐾 Dogger Log
-Dog health & growth tracking app
+#### 🌐 [natorium.dev](https://natorium.dev)
+Personal website
 <br>
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 #### 🧭 [vela-mcp](https://github.com/natori-hrj/vela-mcp)
 Governed, agent-agnostic data exploration over MCP Apps — ask in natural language, get a safe query and an interactive chart back in chat
 <br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-58A6FF?style=flat-square&logo=anthropic&logoColor=white)
-
-#### 🌐 [natorium.dev](https://github.com/natori-hrj/natorium.dev)
-Personal website
-<br>
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 #### 🛰️ [iss-tracker-cli](https://github.com/natori-hrj/iss-tracker-cli)
 ISS position tracker CLI
@@ -67,6 +62,14 @@ ISS position tracker CLI
 Neovim plugin to run Python files on Databricks clusters
 <br>
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+
+#### 🐾 Dogger Log <sub>(WIP)</sub>
+Dog health & growth tracking app - not deployed yet
+<br>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 <br>
 
