@@ -1,5 +1,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Natori;Backend-focused+Fullstack+Engineer;Building+cool+things+with+Go+%26+Next.js;Dog+lover+%F0%9F%90%BE" alt="Typing SVG" />
+
+  <br>
+
+  [![X](https://img.shields.io/badge/X-nator1__hrj-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/nator1_hrj)
+  [![Dogger Log](https://img.shields.io/badge/Dogger_Log-dogger--log.app-58A6FF?style=flat-square&logo=googlechrome&logoColor=white)](https://dogger-log.app)
+  [![GitHub followers](https://img.shields.io/github/followers/natori-hrj?style=flat-square&logo=github&color=181717&labelColor=181717)](https://github.com/natori-hrj)
 </div>
 
 <br>
@@ -7,6 +13,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently building **[Dogger Log](https://dogger-log.app)** - a dog health & growth tracking app
+- 🧭 Also exploring **[vela-mcp](https://github.com/natori-hrj/vela-mcp)** - governed data exploration over MCP
 - 🌱 Learning **Go** and deepening **system design** skills
 - 💼 Backend-focused Fullstack Engineer
 - 🐾 Dog lover with a Pomeranian & Toy Poodle
@@ -32,12 +39,34 @@
 
 ## 🔨 Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🐾 Dogger Log | Dog health & growth tracking app | Go, Next.js, PostgreSQL, GCP |
-| 🌐 [natorium.dev](https://github.com/natori-hrj/natorium.dev) | Personal website | Svelte |
-| 🛰️ [iss-tracker-cli](https://github.com/natori-hrj/iss-tracker-cli) | ISS position tracker CLI | Go |
-| ⚡ [databricks.nvim](https://github.com/natori-hrj/databricks.nvim) | Neovim plugin to run Python files on Databricks clusters | Lua |
+#### 🐾 Dogger Log
+Dog health & growth tracking app
+<br>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+#### 🧭 [vela-mcp](https://github.com/natori-hrj/vela-mcp)
+Governed, agent-agnostic data exploration over MCP Apps — ask in natural language, get a safe query and an interactive chart back in chat
+<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-58A6FF?style=flat-square&logo=anthropic&logoColor=white)
+
+#### 🌐 [natorium.dev](https://github.com/natori-hrj/natorium.dev)
+Personal website
+<br>
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+
+#### 🛰️ [iss-tracker-cli](https://github.com/natori-hrj/iss-tracker-cli)
+ISS position tracker CLI
+<br>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+#### ⚡ [databricks.nvim](https://github.com/natori-hrj/databricks.nvim)
+Neovim plugin to run Python files on Databricks clusters
+<br>
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
 <br>
 
@@ -46,5 +75,7 @@
 <div align="left">
   <img alt="github stats" height="170px" src="https://github-stats-extended.vercel.app/api?username=natori-hrj&theme=vue-dark&show_icons=true&layout=compact" />
   <img alt="Top Langs" height="170px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=natori-hrj&theme=vue-dark&layout=compact" />
+  <br>
+  <img alt="GitHub Streak" height="170px" src="https://streak-stats.demolab.com?user=natori-hrj&theme=vue-dark" />
 </div>
 
