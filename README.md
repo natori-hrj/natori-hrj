@@ -6,16 +6,16 @@
   [![X](https://img.shields.io/badge/X-nator1__hrj-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/nator1_hrj)
   [![natorium.dev](https://img.shields.io/badge/natorium.dev-58A6FF?style=flat-square&logo=googlechrome&logoColor=white)](https://natorium.dev)
   [![GitHub followers](https://img.shields.io/github/followers/natori-hrj?style=flat-square&logo=github&color=181717&labelColor=181717)](https://github.com/natori-hrj)
-  [![Stars Earned](https://img.shields.io/badge/⭐_Stars_Earned-14-F1E05A?style=flat-square&labelColor=181717)](https://github.com/natori-hrj?tab=repositories&sort=stargazers)
+  [![Stars Earned](https://img.shields.io/badge/⭐_Stars_Earned-15-F1E05A?style=flat-square&labelColor=181717)](https://github.com/natori-hrj?tab=repositories&sort=stargazers)
 </div>
 
 <br>
 
 ## 👨‍💻 About Me
 
+- 🐕 Building a plugin suite for **[herdr](https://github.com/ogulcancelik/herdr)** - [triage](https://github.com/natori-hrj/herdr-triage), [green](https://github.com/natori-hrj/herdr-green), [standup](https://github.com/natori-hrj/herdr-standup), [hail](https://github.com/natori-hrj/herdr-hail)
+- 🧭 Also exploring **[vela-mcp](https://github.com/natori-hrj/vela-mcp)** - governed data exploration over MCP
 - 🌐 Personal site: **[natorium.dev](https://natorium.dev)**
-- 🧭 Currently exploring **[vela-mcp](https://github.com/natori-hrj/vela-mcp)** - governed data exploration over MCP
-- 🔭 Building **Dogger Log** - a dog health & growth tracking app (WIP, not deployed yet)
 - 🌱 Learning **Go** and deepening **system design** skills
 - 🤝 Occasional contributor to OSS, e.g. [pingcap/tidb](https://github.com/pingcap/tidb)
 - 💼 Backend-focused Fullstack Engineer
@@ -46,6 +46,11 @@
 Personal website
 <br>
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+
+#### 🐕 herdr plugin suite
+Companion tools for [herdr](https://github.com/ogulcancelik/herdr), a terminal agent multiplexer — [triage](https://github.com/natori-hrj/herdr-triage) (attention ranking), [green](https://github.com/natori-hrj/herdr-green) (per-agent test status), [standup](https://github.com/natori-hrj/herdr-standup) (per-agent digest), [hail](https://github.com/natori-hrj/herdr-hail) (Slack/Discord bridge)
+<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 #### 🧭 [vela-mcp](https://github.com/natori-hrj/vela-mcp)
 Governed, agent-agnostic data exploration over MCP Apps — ask in natural language, get a safe query and an interactive chart back in chat
