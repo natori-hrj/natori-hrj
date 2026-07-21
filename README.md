@@ -13,7 +13,8 @@
 
 ## 👨‍💻 About Me
 
-- 🐕 Building a plugin suite for **[herdr](https://github.com/ogulcancelik/herdr)** - [triage](https://github.com/natori-hrj/herdr-triage), [green](https://github.com/natori-hrj/herdr-green), [standup](https://github.com/natori-hrj/herdr-standup), [hail](https://github.com/natori-hrj/herdr-hail)
+- 🦀 Just released **[herdr-lazy](https://github.com/natori-hrj/herdr-lazy)** - a declarative plugin manager & curated distro for herdr
+- 🐕 Also building a plugin suite for **[herdr](https://github.com/ogulcancelik/herdr)** - [triage](https://github.com/natori-hrj/herdr-triage), [green](https://github.com/natori-hrj/herdr-green), [standup](https://github.com/natori-hrj/herdr-standup), [hail](https://github.com/natori-hrj/herdr-hail)
 - 🧭 Also exploring **[vela-mcp](https://github.com/natori-hrj/vela-mcp)** - governed data exploration over MCP
 - 🌐 Personal site: **[natorium.dev](https://natorium.dev)**
 - 🌱 Learning **Go** and deepening **system design** skills
@@ -41,6 +42,12 @@
 <br>
 
 ## 🔨 Projects
+
+#### 🦀 [herdr-lazy](https://github.com/natori-hrj/herdr-lazy) <sub>NEW</sub>
+Declarative plugin manager and curated distro for herdr — one list, a real lockfile, a manage pane
+<br>
+![Release](https://img.shields.io/badge/release-v0.5.0-58A6FF?style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 #### 🌐 [natorium.dev](https://natorium.dev)
 Personal website
