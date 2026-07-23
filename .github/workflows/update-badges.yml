@@ -42,10 +42,15 @@ jobs:
           sed -i -E "s#badge/followers-[0-9]+-181717#badge/followers-${FOLLOWERS}-181717#" README.md
           sed -i -E "s#Stars_Earned-[0-9]+-F1E05A#Stars_Earned-${STARS}-F1E05A#" README.md
 
+      # 統計画像は配信元が41時間キャッシュを強制するため、URLを日付で変えて取り直させる
+      - name: Refresh stats image URLs
+        run: |
+          sed -i -E "s#&v=[0-9]{8}#\&v=$(date -u +%Y%m%d)#g" README.md
+
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "chore: update followers/stars badges"
+          git diff --cached --quiet || git commit -m "chore: update badges and refresh stats images"
           git push
