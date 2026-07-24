@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🦀 Just released **[herdr-lazy](https://github.com/natori-hrj/herdr-lazy)** - a declarative plugin manager & curated distro for herdr
+- 🦀 Building **[herdr-lazy](https://github.com/natori-hrj/herdr-lazy)** - a declarative plugin manager & curated distro for herdr
 - 🐕 Also building a plugin suite for **[herdr](https://github.com/ogulcancelik/herdr)** - [triage](https://github.com/natori-hrj/herdr-triage), [green](https://github.com/natori-hrj/herdr-green), [standup](https://github.com/natori-hrj/herdr-standup), [hail](https://github.com/natori-hrj/herdr-hail)
 - 🧭 Also exploring **[vela-mcp](https://github.com/natori-hrj/vela-mcp)** - governed data exploration over MCP
 - 🌐 Personal site: **[natorium.dev](https://natorium.dev)**
@@ -37,7 +37,7 @@
 
 ## 🚀 Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,python,ts,react,next,svelte,postgres,docker,gcp,aws,neovim" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,rust,python,ts,react,next,svelte,postgres,docker,gcp,aws,neovim" />
 
 <br>
 
@@ -46,7 +46,7 @@
 #### 🦀 [herdr-lazy](https://github.com/natori-hrj/herdr-lazy) <sub>NEW</sub>
 Declarative plugin manager and curated distro for herdr — one list, a real lockfile, a manage pane
 <br>
-![Release](https://img.shields.io/badge/release-v0.5.0-58A6FF?style=flat-square)
+![Release](https://img.shields.io/badge/release-v0.17.0-58A6FF?style=flat-square)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 #### 🌐 [natorium.dev](https://natorium.dev)
@@ -55,8 +55,9 @@ Personal website
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 #### 🐕 herdr plugin suite
-Companion tools for [herdr](https://github.com/ogulcancelik/herdr), a terminal agent multiplexer — [triage](https://github.com/natori-hrj/herdr-triage) (attention ranking), [green](https://github.com/natori-hrj/herdr-green) (per-agent test status), [standup](https://github.com/natori-hrj/herdr-standup) (per-agent digest), [hail](https://github.com/natori-hrj/herdr-hail) (Slack/Discord bridge)
+Companion tools for [herdr](https://github.com/ogulcancelik/herdr), a terminal agent multiplexer — [triage](https://github.com/natori-hrj/herdr-triage) (attention ranking), [green](https://github.com/natori-hrj/herdr-green) (per-agent test status), [standup](https://github.com/natori-hrj/herdr-standup) (per-agent digest) in Rust, and [hail](https://github.com/natori-hrj/herdr-hail) (Slack/Discord bridge) in TypeScript
 <br>
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 #### 🧭 [vela-mcp](https://github.com/natori-hrj/vela-mcp)
