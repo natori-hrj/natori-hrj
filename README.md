@@ -6,7 +6,7 @@
   [![X](https://img.shields.io/badge/X-nator1__hrj-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/nator1_hrj)
   [![natorium.dev](https://img.shields.io/badge/natorium.dev-58A6FF?style=flat-square&logo=googlechrome&logoColor=white)](https://natorium.dev)
   [![GitHub followers](https://img.shields.io/badge/followers-3-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/natori-hrj)
-  [![Stars Earned](https://img.shields.io/badge/%E2%AD%90_Stars_Earned-32-F1E05A?style=flat-square&labelColor=181717)](https://github.com/natori-hrj?tab=repositories&sort=stargazers)
+  [![Stars Earned](https://img.shields.io/badge/%E2%AD%90_Stars_Earned-33-F1E05A?style=flat-square&labelColor=181717)](https://github.com/natori-hrj?tab=repositories&sort=stargazers)
 </div>
 
 <br>
@@ -89,9 +89,9 @@ Dog health & growth tracking app - not deployed yet
 ## 🌙 Activities
 
 <div align="left">
-  <img alt="github stats" height="170px" src="https://github-stats-extended.vercel.app/api?username=natori-hrj&theme=vue-dark&show_icons=true&layout=compact&v=20260804" />
-  <img alt="Top Langs" height="170px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=natori-hrj&theme=vue-dark&layout=compact&v=20260804" />
+  <img alt="github stats" height="170px" src="https://github-stats-extended.vercel.app/api?username=natori-hrj&theme=vue-dark&show_icons=true&layout=compact&v=20260805" />
+  <img alt="Top Langs" height="170px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=natori-hrj&theme=vue-dark&layout=compact&v=20260805" />
   <br>
-  <img alt="GitHub Streak" height="170px" src="https://streak-stats.demolab.com?user=natori-hrj&theme=vue-dark&v=20260804" />
+  <img alt="GitHub Streak" height="170px" src="https://streak-stats.demolab.com?user=natori-hrj&theme=vue-dark&v=20260805" />
 </div>
 
