@@ -89,9 +89,9 @@ Dog health & growth tracking app - not deployed yet
 ## 🌙 Activities
 
 <div align="left">
-  <img alt="github stats" height="170px" src="https://github-stats-extended.vercel.app/api?username=natori-hrj&theme=vue-dark&show_icons=true&layout=compact&v=20260812" />
-  <img alt="Top Langs" height="170px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=natori-hrj&theme=vue-dark&layout=compact&v=20260812" />
+  <img alt="github stats" height="170px" src="https://github-stats-extended.vercel.app/api?username=natori-hrj&theme=vue-dark&show_icons=true&layout=compact&v=20260813" />
+  <img alt="Top Langs" height="170px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=natori-hrj&theme=vue-dark&layout=compact&v=20260813" />
   <br>
-  <img alt="GitHub Streak" height="170px" src="https://streak-stats.demolab.com?user=natori-hrj&theme=vue-dark&v=20260812" />
+  <img alt="GitHub Streak" height="170px" src="https://streak-stats.demolab.com?user=natori-hrj&theme=vue-dark&v=20260813" />
 </div>
 
