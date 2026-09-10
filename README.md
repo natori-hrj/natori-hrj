@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Natori;Backend-focused+Fullstack+Engineer;Building+cool+things+with+Go+%26+Next.js;Dog+lover+%F0%9F%90%BE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Natori;Backend-focused+Full-Stack+Engineer;Building+cool+things+with+Go+%26+Rust;Dog+lover+%F0%9F%90%BE" alt="Typing SVG" />
 
   <br>
 
@@ -14,12 +14,12 @@
 ## 👨‍💻 About Me
 
 - 🦀 Building **[herdr-lazy](https://github.com/natori-hrj/herdr-lazy)** - a declarative plugin manager & curated distro for herdr
-- 🐕 Also building a plugin suite for **[herdr](https://github.com/ogulcancelik/herdr)** - [triage](https://github.com/natori-hrj/herdr-triage), [green](https://github.com/natori-hrj/herdr-green), [standup](https://github.com/natori-hrj/herdr-standup), [hail](https://github.com/natori-hrj/herdr-hail)
+- 🐕 Also building a plugin suite for **[herdr](https://github.com/ogulcancelik/herdr)** - [triage](https://github.com/natori-hrj/herdr-triage), [green](https://github.com/natori-hrj/herdr-green), [standup](https://github.com/natori-hrj/herdr-standup), [docs](https://github.com/natori-hrj/herdr-docs), [hail](https://github.com/natori-hrj/herdr-hail)
 - 🧭 Also exploring **[vela-mcp](https://github.com/natori-hrj/vela-mcp)** - governed data exploration over MCP
 - 🌐 Personal site: **[natorium.dev](https://natorium.dev)**
 - 🌱 Learning **Go** and deepening **system design** skills
 - 🤝 Occasional contributor to OSS, e.g. [pingcap/tidb](https://github.com/pingcap/tidb)
-- 💼 Backend-focused Fullstack Engineer
+- 💼 Backend-focused Full-Stack Engineer
 - 🐾 Dog lover with a Pomeranian & Toy Poodle
 - 📫 Reach me at [X - @nator1_hrj](https://x.com/nator1_hrj)
 
@@ -43,10 +43,15 @@
 
 ## 🔨 Projects
 
-#### 🦀 [herdr-lazy](https://github.com/natori-hrj/herdr-lazy) <sub>NEW</sub>
-Declarative plugin manager and curated distro for herdr — one list, a real lockfile, a manage pane
+#### 🦀 [herdr-lazy](https://github.com/natori-hrj/herdr-lazy)
+Declarative plugin manager and curated distro for herdr — one list, a real lockfile, marketplace search, and a manage pane
 <br>
-![Release](https://img.shields.io/badge/release-v0.17.0-58A6FF?style=flat-square)
+![Release](https://img.shields.io/badge/release-v0.38.0-58A6FF?style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+#### 📚 [herdr-docs](https://github.com/natori-hrj/herdr-docs)
+A calm, normalized document reader pane for herdr
+<br>
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 #### 🌐 [natorium.dev](https://natorium.dev)
@@ -55,7 +60,7 @@ Personal website
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 #### 🐕 herdr plugin suite
-Companion tools for [herdr](https://github.com/ogulcancelik/herdr), a terminal agent multiplexer — [triage](https://github.com/natori-hrj/herdr-triage) (attention ranking), [green](https://github.com/natori-hrj/herdr-green) (per-agent test status), [standup](https://github.com/natori-hrj/herdr-standup) (per-agent digest) in Rust, and [hail](https://github.com/natori-hrj/herdr-hail) (Slack/Discord bridge) in TypeScript
+Companion tools for [herdr](https://github.com/ogulcancelik/herdr), a terminal agent multiplexer — [triage](https://github.com/natori-hrj/herdr-triage) (attention ranking), [green](https://github.com/natori-hrj/herdr-green) (per-agent test status), [standup](https://github.com/natori-hrj/herdr-standup) (per-agent digest), [docs](https://github.com/natori-hrj/herdr-docs) (document reader pane) in Rust, and [hail](https://github.com/natori-hrj/herdr-hail) (two-way Slack/Discord bridge) in TypeScript
 <br>
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -94,4 +99,3 @@ Dog health & growth tracking app - not deployed yet
   <br>
   <img alt="GitHub Streak" height="170px" src="https://streak-stats.demolab.com?user=natori-hrj&theme=vue-dark&v=20260910" />
 </div>
-
