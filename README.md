@@ -44,9 +44,9 @@
 ## 🔨 Projects
 
 #### 🦀 [herdr-lazy](https://github.com/natori-hrj/herdr-lazy)
-Declarative plugin manager and curated distro for herdr — one list, a real lockfile, marketplace search, and a manage pane
+Declarative, reproducible plugin manager and curated distro for herdr — one list, a lockfile, and a safe manage pane
 <br>
-![Release](https://img.shields.io/badge/release-v0.38.0-58A6FF?style=flat-square)
+![Release](https://img.shields.io/badge/release-v0.43.0-58A6FF?style=flat-square)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 #### 📚 [herdr-docs](https://github.com/natori-hrj/herdr-docs)
