@@ -1,6 +1,6 @@
-# Natori
+# natori
 
-Backend-focused full-stack engineer building developer tools with Go and Rust.
+Backend-focused full-stack engineer building developer tools with Go, Rust, Python, and TypeScript.
 
 Interested in developer tools, terminal interfaces, and open source.
 
