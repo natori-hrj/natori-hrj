@@ -1,12 +1,17 @@
-# natori
+<h1 align="center">natori</h1>
 
-Backend-focused full-stack engineer building developer tools with Go, Rust, Python, and TypeScript.
+<p align="center">
+  Backend-focused full-stack engineer<br>
+  Go · Rust · Python · TypeScript
+</p>
 
-Interested in developer tools, terminal interfaces, and open source.
+<p align="center">
+  <a href="https://x.com/nator1_hrj"><img src="https://img.shields.io/badge/X-@nator1__hrj-111111?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://natorium.dev"><img src="https://img.shields.io/badge/natorium.dev-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="natorium.dev"></a>
+  <a href="https://github.com/natori-hrj"><img src="https://img.shields.io/badge/followers-4-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub followers"></a>
+  <a href="https://github.com/natori-hrj?tab=repositories&sort=stargazers"><img src="https://img.shields.io/badge/Stars-53-111111?style=flat-square&logo=github&logoColor=white" alt="Stars"></a>
+</p>
 
-<div align="center">
-  <a href="https://x.com/nator1_hrj"><img src="https://img.shields.io/badge/X-nator1__hrj-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://natorium.dev"><img src="https://img.shields.io/badge/natorium.dev-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" alt="natorium.dev"></a>
-  <a href="https://github.com/natori-hrj"><img src="https://img.shields.io/badge/followers-4-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub followers"></a>
-  <a href="https://github.com/natori-hrj?tab=repositories&sort=stargazers"><img src="https://img.shields.io/badge/%E2%AD%90_Stars_Earned-53-F1E05A?style=flat-square&labelColor=181717" alt="Stars Earned"></a>
-</div>
+<p align="center">
+  developer tools · terminal interfaces · open source
+</p>
