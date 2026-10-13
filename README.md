@@ -1,7 +1,7 @@
 <h1 align="center">natori</h1>
 
 <p align="center">
-  Backend-focused full-stack engineer<br>
+  software enginner exploring security, Linux & open source.<br>
   Go · Rust · Python · TypeScript
 </p>
 
@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  developer tools · terminal interfaces · open source
+  buliding things · breaking things · learning why
 </p>
